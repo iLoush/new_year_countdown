@@ -86,4 +86,8 @@ h1 {
    .time small {
       font-size: 10px;
    }
+
+   .year {
+      font-size: 180px;
+   }
 }
